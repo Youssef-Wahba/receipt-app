@@ -20,7 +20,7 @@ This is a simple Receipt App built with .NET Web API. The app allows users to ad
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/simplereceiptapp.git
+    git clone https://github.com/Youssef-Wahba/receipt-app.git
     cd simplereceiptapp
     ```
 
